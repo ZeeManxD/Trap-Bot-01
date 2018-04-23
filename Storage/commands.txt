@@ -1,0 +1,11 @@
+```
+Commands
+/help - Gives Help
+/ping - give PONG
+/didnot - Says Oh Hi Mark
+/kys - says no you
+
+Admin commands
+/kick - kicks people
+/ban - bans people
+/del - deletes messages```
